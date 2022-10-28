@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ofiktana
 - 👀 I’m interested in remote working opportunities
-- 🌱 I’m currently learning on Front End Web Development
+- 🌱 I’m currently learning Front End Web Development on Codecademy
 - 💞️ I’m looking to collaborate on group/team projects
 - 📫 How to reach me - ofik.tana@gmail.com
 
