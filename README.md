@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ofiktana
+- 👋 Hi, I’m Tana
 - 👀 I’m interested in remote working opportunities
 - 🌱 I’m currently learning Front End Web Development on Codecademy
 - 💞️ I’m looking to collaborate on group/team projects
